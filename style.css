@@ -1,0 +1,159 @@
+h1,
+h2,
+h3,
+body,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E7DFD8;
+    font-family: "Inter", sans-serif;
+    color: #101010;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1119px;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 35px;
+    padding: 28px 0;
+}
+
+/* Mickey-Mouse */
+.mickey {
+    padding: 99px 0;
+}
+
+.mickey-container {
+    display: flex;
+    gap: 107px;
+}
+
+.mickey-img {
+    border-radius: 12px;
+}
+
+.mickey-span {
+    font-weight: 400;
+    font-size: 38px;
+    background-color: #b99fea;
+    border-radius: 100px;
+    padding: 25px;
+    margin-right: 30px;
+}
+
+.mickey-text {
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.mickey-text-2 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #101010;
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-bottom: 35px;
+}
+
+.mickey-link {
+    background-color: #b99fea;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
+
+/* Coco */
+.coco {
+    padding: 99px 0;
+}
+
+.coco-container {
+    display: flex;
+    gap: 107px;
+    flex-direction: row-reverse;
+}
+
+.coco-img {
+    border-radius: 12px;
+}
+
+.coco-span {
+    font-weight: 400;
+    font-size: 38px;
+    background-color: #eba789;;
+    border-radius: 100px;
+    padding: 25px;
+    margin-right: 30px;
+}
+
+
+
+.coco-text-2 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 35px;
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.coco-link {
+    text-decoration: none;
+    background-color: #eba789;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
+
+/* Vayana */
+.vayana {
+    padding: 99px 0;
+}
+
+.vayana-container {
+    display: flex;
+    gap: 107px;
+}
+
+.vayana-img {
+    border-radius: 12px;
+}
+
+.vayana-span {
+    font-weight: 400;
+    font-size: 38px;
+    background-color: #96dbc6;;
+    border-radius: 100px;
+    padding: 25px;
+    margin-right: 30px;
+}
+
+.vayana-text {
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.vayana-text-2 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 35px;
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.vayana-link {
+    text-decoration: none;
+    background-color: #96dbc6;;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
