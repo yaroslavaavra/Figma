@@ -39,12 +39,12 @@ body {
 }
 
 .mickey-span {
-    font-weight: 400;
     font-size: 38px;
     background-color: #b99fea;
-    border-radius: 100px;
-    padding: 25px;
-    margin-right: 30px;
+    border-radius: 74px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .mickey-text {
@@ -90,8 +90,9 @@ body {
     font-size: 38px;
     background-color: #eba789;;
     border-radius: 100px;
-    padding: 25px;
-    margin-right: 30px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
@@ -132,8 +133,9 @@ body {
     font-size: 38px;
     background-color: #96dbc6;
     border-radius: 100px;
-    padding: 25px;
-    margin-right: 30px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .vayna-text {
